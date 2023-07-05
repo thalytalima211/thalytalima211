@@ -13,13 +13,13 @@ Estudante de Ciências da Computação no IFCE (Campus Tianguá). Apaixonada por
 
 ##
 Você também me encontra em:
-&nbsp;<a href="www.linkedin.com/in/thalytalima211/">
+&nbsp;<a href="https://www.linkedin.com/in/thalytalima211">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>&nbsp;
 &nbsp;<a href="https://www.instagram.com/thaalyta_lima/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>&nbsp;
-&nbsp;<a href="thalytalima211@gmail.com/">
+&nbsp;<a href="https://thalytalima211@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>&nbsp;
 
