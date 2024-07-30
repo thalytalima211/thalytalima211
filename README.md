@@ -3,15 +3,18 @@
 Estudante de Ciências da Computação no IFCE (Campus Tianguá). Apaixonada por tudo que envolve matemática e tecnologia.
 - 👩🏻‍💻 Programadora e estudante de Ciência da Computação
 - 👩🏻‍🎓 Apaixonada por matemática, 3 vezes medalhista da Olimpíada Brasileira de Matemática das Escolas Públicas
-- 🌎 Brasileira e cearense com muito orgulho
-- 🏃🏻‍♀️ Amo correr e pedalar nas horas vagas
+- 📖 Aluna bolsista do Bolsa Tech Fundação Behring - OBMEP
 - 🖥 Atualmente focada em:
 <div style='display: inline'>
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ruby/ruby-original-wordmark.svg" />   
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rails/rails-plain-wordmark.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
   <img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' />
   <img width='50' height='50' src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg' />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img width='50' height='50' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
               
 </div>
 
@@ -31,6 +34,10 @@ Você também me encontra em:
 ##
 Alguns dos meus principais projetos:
 
+- <a href="https://github.com/thalytalima211/cade-buffet">
+  Cadê Buffet?
+</a>
+
 - <a href="https://github.com/thalytalima211/js-developer-pokedex">
   Pokedex
 </a>
@@ -39,9 +46,6 @@ Alguns dos meus principais projetos:
   Estudos gerais em Java
 </a>
  
-- <a href="https://github.com/thalytalima211/Calculadora">
-  Calculadora desenvolvida em C
-</a>
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thalytalima211&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
