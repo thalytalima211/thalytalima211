@@ -38,14 +38,13 @@ Alguns dos meus principais projetos:
   Cadê Buffet?
 </a>
 
+- <a href="https://github.com/thalytalima211/busca-cep">
+  Buscar por CEP
+</a>
+ 
 - <a href="https://github.com/thalytalima211/js-developer-pokedex">
   Pokedex
 </a>
-
-- <a href="https://github.com/thalytalima211/material-java-basico">
-  Estudos gerais em Java
-</a>
- 
 
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thalytalima211&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
